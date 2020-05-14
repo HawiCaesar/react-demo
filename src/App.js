@@ -13,7 +13,7 @@ class App extends Component {
         <header className="App-header">
           <img src={logo} className="App-logo" alt="logo" />
           <h1 className="App-title">Welcome to React Hello World Again</h1>
-          <h2 style={{color:"red"}}>Another Pull request</h2>
+          <h2 style={{color:"red"}}>Another Pull request Setup 2</h2>
         </header>
         <p className="App-intro">
           {ButtonExampleButton()}
